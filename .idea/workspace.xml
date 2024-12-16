@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e3ab791-ae5b-4bf9-8001-1a3870cd9695" name="Changes" comment="" />
+    <list default="true" id="6e3ab791-ae5b-4bf9-8001-1a3870cd9695" name="Changes" comment="изменения и всё тут)))">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Rick-77-2024"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Rick-77-2024/tbcc-token-landing.git",
+    "accountId": "c0872ce9-0d2c-43bc-ae48-2427bf9d4aaa"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -66,10 +82,43 @@
       <workItem from="1734207010438" duration="9286000" />
       <workItem from="1734348262318" duration="1453000" />
       <workItem from="1734349754401" duration="67000" />
+      <workItem from="1734350006455" duration="1703000" />
     </task>
+    <task id="LOCAL-00001" summary="изменения и всё тут)))">
+      <option name="closed" value="true" />
+      <created>1734350203096</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734350203096</updated>
+    </task>
+    <task id="LOCAL-00002" summary="изменения и всё тут)))">
+      <option name="closed" value="true" />
+      <created>1734350316558</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734350316558</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="изменения и всё тут)))" />
+    <option name="LAST_COMMIT_MESSAGE" value="изменения и всё тут)))" />
   </component>
 </project>

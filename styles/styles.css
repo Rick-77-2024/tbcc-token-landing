@@ -21,7 +21,7 @@ body {
 }
 
 .container {
-    /*width: 100%;*/
+    width: 100%;
     margin: 0 auto 0 266px ;
 }
 
@@ -103,9 +103,9 @@ body {
     width: 33px;
 }
 
-.active {
-    transform: rotate(180deg);
-}
+/*.active {*/
+/*    transform: rotate(180deg);*/
+/*}*/
 
 .arrow {
     display: inline-block;
